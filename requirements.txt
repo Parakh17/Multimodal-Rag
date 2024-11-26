@@ -1,0 +1,15 @@
+python=3.10
+poppler
+tesseract
+libmagic
+"unstructured[all-docs]"
+pillow
+lxml
+pillow
+chromadb
+tiktoken
+langchain
+langchain-community
+langchain-openai
+langchain-groq
+python_dotenv
